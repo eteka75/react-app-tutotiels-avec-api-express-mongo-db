@@ -1,4 +1,19 @@
-.App {
+.list {
+  text-align: left;
+  max-width: 750px;
+  margin: auto;
+}
+
+.submit-form {
+  max-width: 300px;
+  margin: auto;
+}
+
+.edit-form {
+  max-width: 300px;
+  margin: auto;
+}
+/*.App {
   text-align: center;
 }
 
@@ -36,3 +51,4 @@
     transform: rotate(360deg);
   }
 }
+*/
